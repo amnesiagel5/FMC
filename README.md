@@ -1,4 +1,4 @@
 # FMC
  
-Read requirements.txt and install needed. ^-^
+Unpack requirements.zip and install needed libraries in txt file. ^-^
  
