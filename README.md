@@ -4,3 +4,5 @@ Install Python 3.9 and please install needed libraries in txt file to run the sy
  
 # Credits and inspired from the project of: 
 @AISWARYAJAYADAS - https://github.com/AISWARYAJAYADAS/facemask
+#
+@sauravjoshi23 - https://github.com/sauravjoshi23/CovidFaceMaskDetection
